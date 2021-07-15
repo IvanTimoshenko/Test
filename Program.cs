@@ -8,9 +8,8 @@ namespace GitProject
         static void Main(string[] args)
         {
             Messages messages = new Messages();
-            int a = 1;
+            Console.WriteLine("Hello there");
             messages.FirstMessage();
-            Console.WriteLine("Greetings complete");
             Console.ReadKey();
         }
     }
