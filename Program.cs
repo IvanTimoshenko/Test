@@ -10,6 +10,7 @@ namespace GitProject
             Messages messages = new Messages();
             Console.WriteLine("Hello there");
             Console.WriteLine(messages.FirstMessage());
+            Console.WriteLine("Greetings complete");
         }
     }
 }
