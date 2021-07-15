@@ -4,11 +4,12 @@ namespace GitProject
 {
     class Program
     {
-        Messages messages = new Messages();
+        
         static void Main(string[] args)
         {
+            Messages messages = new Messages();
             Console.WriteLine("Hi");
-            Console.WriteLine(Messages.FirstMessage());
+            Console.WriteLine(messages.FirstMessage());
         }
     }
 }
