@@ -1,0 +1,16 @@
+C:\GitProject\bin\Debug\net5.0\GitProject.exe
+C:\GitProject\bin\Debug\net5.0\GitProject.deps.json
+C:\GitProject\bin\Debug\net5.0\GitProject.runtimeconfig.json
+C:\GitProject\bin\Debug\net5.0\GitProject.runtimeconfig.dev.json
+C:\GitProject\bin\Debug\net5.0\GitProject.dll
+C:\GitProject\bin\Debug\net5.0\ref\GitProject.dll
+C:\GitProject\bin\Debug\net5.0\GitProject.pdb
+C:\GitProject\obj\Debug\net5.0\GitProject.csproj.AssemblyReference.cache
+C:\GitProject\obj\Debug\net5.0\GitProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitProject\obj\Debug\net5.0\GitProject.AssemblyInfoInputs.cache
+C:\GitProject\obj\Debug\net5.0\GitProject.AssemblyInfo.cs
+C:\GitProject\obj\Debug\net5.0\GitProject.csproj.CoreCompileInputs.cache
+C:\GitProject\obj\Debug\net5.0\GitProject.dll
+C:\GitProject\obj\Debug\net5.0\ref\GitProject.dll
+C:\GitProject\obj\Debug\net5.0\GitProject.pdb
+C:\GitProject\obj\Debug\net5.0\GitProject.genruntimeconfig.cache
