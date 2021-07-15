@@ -3,9 +3,9 @@ namespace GitProject
 {
     public class Messages
     {
-        public void FirstMessage(){
-            Console.WriteLine("put your message here:"); //some new comment
-            Console.ReadLine();
+        public string FirstMessage(){
+            Console.WriteLine("put your message here:"); //new comment
+            return Console.ReadLine();
         }
     }
 }
