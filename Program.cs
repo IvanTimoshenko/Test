@@ -8,9 +8,12 @@ namespace GitProject
         static void Main(string[] args)
         {
             Messages messages = new Messages();
-            int a = 1;
-            messages.FirstMessage();
-            Console.WriteLine("Greetings complete");
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("Hello World!");
+            string mes = messages.FirstMessage();
+            Console.Clear();
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine(mes);
             Console.ReadKey();
         }
     }
